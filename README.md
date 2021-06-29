@@ -4,7 +4,6 @@
 [![](https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https://google.com)](https://www.linkedin.com/in/willian-menezes-9932b1b9/)
 
 Eu estou criando vídeos no youtube para ajudar a comunidade e aperfeiçoar minhas habilidades, segue lá: 
-
 [![](https://img.shields.io/youtube/channel/subscribers/UC0Vo6yL26XaraIjak87jDww?label=YouTube&style=social)](https://www.youtube.com/channel/UC0Vo6yL26XaraIjak87jDww)
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

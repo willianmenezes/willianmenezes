@@ -2,7 +2,7 @@
 
 Desenvolvedor apaixonado por programação, games e o bom e velho Rock n' Roll.
 
-Eu estou criando vídeos no youtube para ajudar a comunidade e aperfeiçoar minhas habilidades, me segue lá.
+Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfeiçoar minhas habilidades, me segue lá.
 
 [![](https://img.shields.io/youtube/channel/subscribers/UC0Vo6yL26XaraIjak87jDww?label=YouTube&style=social)](https://www.youtube.com/channel/UC0Vo6yL26XaraIjak87jDww)
 [![](https://img.shields.io/github/followers/willianmenezes?style=social)](https://github.com/willianmenezes)

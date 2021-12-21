@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [C# - Generics - Classes genéricas de verdade e aplicando restrições.](https://www.youtube.com/watch?v=_KvUmQ5KYKc)
+- [C# - Generics - &quot;Tentando&quot; trabalhar com object](https://www.youtube.com/watch?v=3uCjAgnLt98)
 - [C# - Generics - Introdução](https://www.youtube.com/watch?v=aoMfUv6lPMA)
 - [C# - LINQ - Sum, Average, Count, Range e Repeat](https://www.youtube.com/watch?v=JXoSZpR9_aw)
 - [C# - LINQ - .Skip&lpar;&rpar; e .Take&lpar;&rpar;](https://www.youtube.com/watch?v=gEan2v0ehCw)
-- [C# - LINQ - Select e SelectMany](https://www.youtube.com/watch?v=gbvRAWprU_U)
-- [C# - LINQ - .Where&lpar;&rpar; .OrderBy&lpar;&rpar; .OrderByDescending&lpar;&rpar; .Reverse&lpar;&rpar; - Sintaxe de método.](https://www.youtube.com/watch?v=f9g_8HOXEBM)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

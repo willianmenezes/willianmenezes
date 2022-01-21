@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [.NET - Injeção de dependência - Configurando e Utilizando](https://www.youtube.com/watch?v=W3CZNbvOGcw)
 - [.NET - Injeção de dependência - Introdução](https://www.youtube.com/watch?v=GhSo7-ZhQe8)
 - [C# - Generics - Aplicando em interfaces e configurando injeção de dependência.](https://www.youtube.com/watch?v=PcG-KDHpDSs)
 - [C# - Generics - Aplicando em métodos de extensão.](https://www.youtube.com/watch?v=B9coF7-CJ6M)
 - [C# - Generics - Classes genéricas de verdade e aplicando restrições.](https://www.youtube.com/watch?v=_KvUmQ5KYKc)
-- [C# - Generics - &quot;Tentando&quot; trabalhar com object](https://www.youtube.com/watch?v=3uCjAgnLt98)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

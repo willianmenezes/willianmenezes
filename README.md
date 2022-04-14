@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [APRESENTAÇÃO DO CANAL](https://www.youtube.com/watch?v=vrVXonI2UiY)
 - [.NET - Injeção de dependência - Configurando uma Console Application](https://www.youtube.com/watch?v=P2k8Zmfucyc)
 - [5 + 1 DICAS PARA QUEM ESTA INICIANDO COM PROGRAMAÇÃO](https://www.youtube.com/watch?v=n1dyQh-V1uI)
 - [.NET - Injeção de dependência - Várias classes para a mesma interface. Como o container se comporta?](https://www.youtube.com/watch?v=6o9rF0ULrLk)
 - [.NET - Injeção de dependência - Entendendo os ciclos de vida.](https://www.youtube.com/watch?v=_6SHpdmD7lY)
-- [.NET - Injeção de dependência - Como o container seleciona o construtor?](https://www.youtube.com/watch?v=i8ZKv-XjI5w)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

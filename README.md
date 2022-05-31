@@ -13,10 +13,10 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 
 <!-- YOUTUBE:START -->
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 06](https://www.youtube.com/watch?v=YkEZzrUwYZc)
+- [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 07](https://www.youtube.com/watch?v=wjk7EJLLVQ0)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 05](https://www.youtube.com/watch?v=iR-AK8UOXfc)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 04](https://www.youtube.com/watch?v=iuAg7WH1Dqw)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 03](https://www.youtube.com/watch?v=NsvmKaC-sqk)
-- [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 02](https://www.youtube.com/watch?v=0FJwk9WSSCA)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

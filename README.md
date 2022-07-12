@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [O QUE É UM FRAMEWORK? #csharp #framework #dotnet #programação #programming #shorts](https://www.youtube.com/watch?v=SOMLeZDOSiE)
 - [Vamos falar um pouco sobre abstração em programação? #programação #csharp #youtubeshorts](https://www.youtube.com/watch?v=O6Yi25s1T4w)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 09](https://www.youtube.com/watch?v=xkpJduoSdN0)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 08](https://www.youtube.com/watch?v=Q0h7j-1VpwY)
 - [Um dos melhores teclados de 2022 com ótima digitação e funcionalidades!](https://www.youtube.com/watch?v=Z1i6iqdrgN4)
-- [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 07](https://www.youtube.com/watch?v=wjk7EJLLVQ0)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

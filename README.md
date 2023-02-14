@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [Escalabilidade vertical x horizontal  #shorts](https://www.youtube.com/watch?v=lT9vgQzopHY)
 - [O que é mais importante tarefas de negócio ou tarefas de tecnologia?](https://www.youtube.com/watch?v=oeXZ9wjsAxI)
 - [O QUE É UM FRAMEWORK? #csharp #framework #dotnet #programação #programming #shorts](https://www.youtube.com/watch?v=SOMLeZDOSiE)
 - [Vamos falar um pouco sobre abstração em programação? #programação #csharp #youtubeshorts](https://www.youtube.com/watch?v=O6Yi25s1T4w)
 - [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 09](https://www.youtube.com/watch?v=xkpJduoSdN0)
-- [Criando o curso de ASPNET 6 WEB API - Sistema para gerenciar vendas - Parte 08](https://www.youtube.com/watch?v=Q0h7j-1VpwY)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)

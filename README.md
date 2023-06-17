@@ -1,6 +1,6 @@
 # Willian Menezes
 
-Desenvolvedor apaixonado por programação, games e o bom e velho Rock n' Roll.
+Desenvolvedor apaixonado por programação, livros e o bom e velho Rock n' Roll.
 
 Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfeiçoar minhas habilidades, me segue lá.
 

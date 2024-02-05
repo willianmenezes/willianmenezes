@@ -12,11 +12,11 @@ Eu estou criando conteúdo para ajudar a comunidade de desenvolvimento e aperfei
 ### Últimos vídeos
 
 <!-- YOUTUBE:START -->
+- [Como foi meu processo de migração de carreira? Obs: &lpar;Resumo&rpar;](https://www.youtube.com/watch?v=nxiGL17BMx0)
+- [04 dicas para conseguir a primeira vaga como programador](https://www.youtube.com/watch?v=iZGOQdZhJeY)
 - [Porque é tão legal ser programador? [Livro - O mítico homem mês]](https://www.youtube.com/watch?v=-rJznFIymhc)
 - [.NET 7 - Injeção de dependência - Nova forma de injetar dependencias via atributos.](https://www.youtube.com/watch?v=WHifDqbbGbg)
 - [AWS CLOUD PRACTITIONER - 06 VANTAGENS DA COMPUTAÇÃO EM NUVEM](https://www.youtube.com/watch?v=yEW6-G-TxI8)
-- [AWS CLOUD PRACTITIONER - CAPEX vs OPEX - Estudando para a certificação](https://www.youtube.com/watch?v=u63xRYNwQiw)
-- [Elasticidade na computação em nuvem, vamos aprender um pouquinho a mais sobre isso!](https://www.youtube.com/watch?v=75zqWc3dqLM)
 <!-- YOUTUBE:END -->
 
 ![willianmenezes's github stats](https://github-readme-stats.vercel.app/api?username=willianmenezes&theme=dark&show_icons=true)
